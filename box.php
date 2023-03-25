@@ -7,10 +7,10 @@
   <body>
     <h3>JANA KOTAK</h3>
     <form method="POST">
-      <label for="height">Height:</label>
+      <label for="height">Height :</label>
       <input type="text" name="height" id="height" size="5">
       <br><br>
-      <label for="width">Width:</label>
+      <label for="width">Width :</label>
       <input type="text" name="width" id="width" size="5">
       <br><br>
       <input type="submit" name="submit" id="submit" value="Jana">
